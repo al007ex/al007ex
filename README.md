@@ -1,4 +1,4 @@
-### Hi, I'm Nuro 👋
+### Hi, I'm Alex 👋
 
 <img src="https://komarev.com/ghpvc/?username=al007ex&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
@@ -10,7 +10,7 @@ IT student working toward **CompTIA A+** and **LPI Linux Essentials**. I build t
 
 | Project | |
 | --- | --- |
-| [**slopgames**](https://github.com/al007ex/slopgames) | Self-hosted game portal — Nginx reverse proxy, systemd, auto-renewing TLS · [live](https://slopgames.al007ex.com) |
+| [**slopgames**](https://github.com/al007ex/slopgames) | Self-hosted game portal — Nginx reverse proxy, systemd, auto-renewing TLS |
 | [**moomoo-clone**](https://github.com/al007ex/moomoo-clone) | Multiplayer game server rebuilt from scratch — binary WebSocket protocol, HMAC-signed packets, anti-cheat |
 | [**jscvm**](https://github.com/al007ex/jscvm) | Compiles JavaScript to encrypted bytecode for a custom VM · npm package + webpack plugin |
 | [**MooMoo.js**](https://github.com/al007ex/MooMoo.js) | Modding framework and API for a browser multiplayer game |
