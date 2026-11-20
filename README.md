@@ -2,7 +2,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=al007ex&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
-IT student working toward **CompTIA A+** and **LPI Linux Essentials**. I build things and self-host them on Linux — Nginx, systemd, Docker, Let's Encrypt.
+IT student working toward CompTIA A+ and LPI Linux Essentials. I build things and self-host them
 
 <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,docker,nginx,git,githubactions,nodejs,ts,js,python,postgres,redis&perline=13" alt="Linux, Ubuntu, Bash, Docker, Nginx, Git, GitHub Actions, Node.js, TypeScript, JavaScript, Python, PostgreSQL, Redis" />
 
